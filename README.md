@@ -1,4 +1,4 @@
-# **TappyFish**
+# **Tappy Fish**
 This is the first project developed in collaboration with Pantheon Academy. It is a game inspired by Flappy Bird but featuring fish instead.
 
 ## **Game Description:**
